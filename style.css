@@ -36,12 +36,14 @@ h1 {
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
-.paragrafo1, .paragrafo2 {
+.paragrafo1{
     font-size: 16px;
     color: #333;
     max-width: 500px;
 }
 
-.paragrafo2 {
-    color: red;
+.paragrafo2{
+    font-size: 16px;
+    color: #333;
+    max-width: 500px;
 }
