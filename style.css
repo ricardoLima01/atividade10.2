@@ -13,12 +13,14 @@ h1{
     display: flex;
     flex-direction: row;
     width: 600px;
+    padding: 10%;
 }
 
 .parte2{
     display: flex;
     flex-direction: row;
     width: 600px;
+    padding: 10%;
 }
 
 .paragrafo1{
